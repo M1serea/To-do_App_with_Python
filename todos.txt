@@ -1,0 +1,5 @@
+Read book
+Fix the error
+Deploy the app
+Clean the room
+Learn Python
